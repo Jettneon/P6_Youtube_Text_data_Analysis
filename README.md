@@ -71,7 +71,3 @@ To replicate the analysis or use the code for your own projects, follow these st
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Zomato for providing restaurant data.
-Jupyter for creating an interactive analysis environment.
-Open-source Python libraries like Pandas, Matplotlib, Folium, and Geopy for data analysis and geospatial visualization.
